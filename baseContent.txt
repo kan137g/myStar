@@ -1,5 +1,5 @@
 {
 "app_version":10000,
 "base_url":"http://www.baidu.com",
-"download_url":"test"
+"download_url":"https://raw.githubusercontent.com/kan137g/myStar/master/app-release.apk"
 }
